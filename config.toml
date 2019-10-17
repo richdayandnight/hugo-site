@@ -86,6 +86,10 @@ disableHugoGeneratorInject = false
     name = "twitter"
     url  = "https://twitter.com/richdayandnight"
 
+  [[params.social]]
+    name = "medium"
+    url  = "https://medium.com/richdayandnight"
+
   #[[params.social]]
   #  name = "email"
   #  url  = "mailto:nobody@example.com"
