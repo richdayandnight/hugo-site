@@ -1,5 +1,5 @@
-baseURL = "https://example.com"
-title   = "Hello Friend NG"
+baseURL = "https://richdayandnight.github.io/"
+title = "Rich Day and Night"
 
 DefaultContentLanguage = "en"
 
@@ -38,7 +38,7 @@ disableHugoGeneratorInject = false
   posts = "/posts/:year/:month/:title/"
 
 [author]
-  name = "Jane Doe"
+  name = "Rich Yap"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -58,7 +58,7 @@ disableHugoGeneratorInject = false
   keywords = ""
   images = [""]
 
-  homeSubtitle = "Hello Friend NG"
+  homeSubtitle = "Thoughts, Ideas, and Stories"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = ""
@@ -78,36 +78,25 @@ disableHugoGeneratorInject = false
   themeColor = "#252627"
 
   [params.logo]
-    logoText     = "$ cd /home/"
+    logoText     = "rich@day-and-night "
     logoHomeLink = "/"
 
   # Social icons
   [[params.social]]
     name = "twitter"
-    url  = "https://twitter.com/"
+    url  = "https://twitter.com/richdayandnight"
 
-  [[params.social]]
-    name = "email"
-    url  = "mailto:nobody@example.com"
+  #[[params.social]]
+  #  name = "email"
+  #  url  = "mailto:nobody@example.com"
 
   [[params.social]]
     name = "github"
-    url  = "https://github.com/"
+    url  = "https://github.com/richdayandnight"
 
   [[params.social]]
     name = "linkedin"
-    url  = "https://www.linkedin.com/"
-
-[languages]
-  [languages.en]
-    subtitle  = "Hello Friend NG Theme"
-    weight    = 1
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-
-  [languages.fr]
-    subtitle  = "Hello Friend NG Theme"
-    weight    = 2
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    url  = "https://www.linkedin.com/in/richyap13"
 
 [menu]
   [[menu.main]]
