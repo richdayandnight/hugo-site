@@ -1,0 +1,22 @@
+language: go
+
+go:
+  - master
+
+install:
+  - go get github.com/spf13/hugo
+
+script:
+  - hugo
+
+deploy:
+  local_dir: richdayandnight.github.io
+  repo: richdayandnight/richdayandnight.github.io
+  target_branch: master
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  email: richsmyap@gmail.com
+  name: "richdayandnight"
+  on:
+    branch: master
