@@ -16,6 +16,8 @@ series:
 
 ![your image](/posts/images/flower)
 
+![](/uploads/square2.png "Logo")
+
 Sunflower
 
 This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I'll explain how Hugo uses templates and how you can organize your templates to create a theme. I won't cover using CSS to style your theme.
@@ -1043,7 +1045,6 @@ Now we'll update the post's version of the single template. If you remember Hugo
     
     {{ partial "footer.html" . }}
     :wq
-    
 
 Note that we removed the date logic from the default template and put it in the post template. Generate the web site and verify the results. Posts have dates and the about page doesn't.
 
