@@ -33,3 +33,5 @@ fields:
 - type: file
   name: cover
   label: cover
+pages:
+- content/posts/a-simple-tutorial-on-how-to-document-your-python-project-using-sphinx-and-rinohtype.md
