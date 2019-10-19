@@ -1,10 +1,10 @@
 +++
 cover = ""
 date = "2018-06-17T16:00:00+00:00"
-linktitle = "A Simple Tutorial on How to document your Python Project using Sphinx and Rinohtype"
+linktitle = "A Simple Tutorial on How to Document your Python Project using Sphinx and Rinohtype"
 series = []
 tags = ["Python", "Sphinx"]
-title = "A Simple Tutorial on How to document your Python Project using Sphinx and Rinohtype"
+title = "A Simple Tutorial on How to Document your Python Project using Sphinx and Rinohtype"
 type = []
 weight = ""
 [author]
@@ -23,92 +23,97 @@ Sphinx, written by Georg Brandl and licensed under the BSD license, was original
 
 Rinohtype, paired with Sphinx offers a modern alternative to [LaTeX](http://en.wikipedia.org/wiki/LaTeX) . It provides a Sphinx backend that allows generating professionally typeset PDF documents (Machiels).
 
-### In this tutorial, I’ll be using Sphinx and Rinohtype to produce an HTML and PDF documentation files respectively to a simple API project I wrote that manages a list of Teacher records. ([Github Project Link](https://github.com/richdayandnight/Tutorial_SimpleTeacherAPI))
+### In this tutorial, I’ll be using Sphinx and Rinohtype to produce an HTML and PDF documentation files respectively to a simple API project I wrote that manages a list of Teacher records.
+
+#### [Github Project Link](https://github.com/richdayandnight/Tutorial_SimpleTeacherAPI)
 
 1. Clone the project and delete/move the docs folder so you may follow me in creating the new documentation.
 2. Go to the root directory of the project.
 3. Create and activate a Python 3 virtual environment
 
-   virtualenv -p python3 <name of virtualenv>
-   source <name of virtualenv>/bin/activate
+       virtualenv -p python3 <name of virtualenv>
+       source <name of virtualenv>/bin/activate
 
-![Here I named my virtual environment ‘venv’](https://cdn-images-1.medium.com/max/2000/1*G__9z51DfI7pqHnm9rFWBA.png)_Here I named my virtual environment ‘venv’_
+   {{< figure src="https://cdn-images-1.medium.com/max/2000/1*G__9z51DfI7pqHnm9rFWBA.png" alt="virtual environment" position="center" caption="Here I named my virtual environment ‘venv’" captionPosition="center" >}}
+4. Install all the project requirements
 
-1. Install all the project requirements
+       pip install -r requirements.txt
 
-   pip install -r requirements.txt
+   Note: Sphinx and Rinohtype are already inside the requirements.txt file. If you wish to install them in the virtual environment of the project you’re working on use the following commands below.
 
-Note: Sphinx and Rinohtype are already inside the requirements.txt file. If you wish to install them in the virtual environment of the project you’re working on use the following commands below.
+       pip install Sphinx
+       pip install rinohtype
+5. Create a docs directory and **cd** into this directory.
 
-    pip install Sphinx
-    pip install rinohtype
+       mkdir docs
+       cd docs
+6. Setup Sphinx
 
-1. Create a docs directory and **cd** into this directory.
+       sphinx-quickstart
 
-   mkdir docs
-   cd docs
-2. Setup Sphinx
+   {{< figure src="https://cdn-images-1.medium.com/max/2000/1*3GeKx7mfbRMkEatvUjL-Yw.png" alt="Follow this configuration" position="center" caption="Follow this configuration for now. You may reconfigure this later on your own." captionPosition="center" >}}
 
-   sphinx-quickstart
+   {{< figure src="https://cdn-images-1.medium.com/max/2000/1*hJU9QaPV1ColEG9SIc98Yg.png" alt="continuation" position="center" caption="continuation of the previous picture" captionPosition="center" >}}
+7. Open source/conf.py
+   * Configure path to root directory
 
-![Follow this configuration for now. You may reconfigure this later on your own.](https://cdn-images-1.medium.com/max/2000/1*3GeKx7mfbRMkEatvUjL-Yw.png)_Follow this configuration for now. You may reconfigure this later on your own._
+   {{< figure src="https://cdn-images-1.medium.com/max/2000/1*toYP5LpVVDBGwm8Q2Rt2GQ.png" alt="Uncomment lines 15–17" position="center" caption="Uncomment lines 15–17" captionPosition="center" >}}
 
-![continuation of the previous picture](https://cdn-images-1.medium.com/max/2000/1*hJU9QaPV1ColEG9SIc98Yg.png)_continuation of the previous picture_
+   {{< figure src="https://cdn-images-1.medium.com/max/2000/1*SZYb2_6_GEkhNjYJer_qkg.png" alt="Change path to" position="center" caption="Change path to ‘../..’ and Add sys.setrecursionlimit(1500)" captionPosition="center" >}}
 
-1. Open source/conf.py
+   The path should point to the root directory of the project and looking at the project structure, from conf.py we should reach the root by going up two parent directories.
 
-* Configure path to root directory
+   ![Project structure](https://cdn-images-1.medium.com/max/2000/1*OlJexT1WRuXWltzXRfy1Ug.png)_Project structure_
+   * Add Rinohtype to the list of extension
 
-![Uncomment lines 15–17](https://cdn-images-1.medium.com/max/2000/1*toYP5LpVVDBGwm8Q2Rt2GQ.png)_Uncomment lines 15–17_
+     'rinoh.frontend.sphinx'
+   * Uncomment the latex elements
 
-![Change path to ‘../..’ and Add sys.setrecursionlimit(1500)](https://cdn-images-1.medium.com/max/2000/1*SZYb2_6_GEkhNjYJer_qkg.png)_Change path to ‘../..’ and Add sys.setrecursionlimit(1500)_
+   ![uncomment these](https://cdn-images-1.medium.com/max/2000/1*fApTWXZJphDDoqbRMPbB7A.png)_uncomment these_
 
-The path should point to the root directory of the project and looking at the project structure, from conf.py we should reach the root by going up two parent directories.
+   ![You can change the format further, these are just the default.](https://cdn-images-1.medium.com/max/2000/1*i4PY7uooztxvKmZLSv_baQ.png)_You can change the format further, these are just the default._
+8. Open the [index.rst](https://github.com/richdayandnight/Tutorial_SimpleTeacherAPI/blob/master/docs/source/index.rst) and change the content to the following. (Click the index.rst link for full content)
 
-![Project structure](https://cdn-images-1.medium.com/max/2000/1*OlJexT1WRuXWltzXRfy1Ug.png)_Project structure_
-
-* Add Rinohtype to the list of extension
-
-  'rinoh.frontend.sphinx'
-* Uncomment the latex elements
-
-![uncomment these](https://cdn-images-1.medium.com/max/2000/1*fApTWXZJphDDoqbRMPbB7A.png)_uncomment these_
-
-![You can change the format further, these are just the default.](https://cdn-images-1.medium.com/max/2000/1*i4PY7uooztxvKmZLSv_baQ.png)_You can change the format further, these are just the default._
-
-1. Open the [index.rst](https://github.com/richdayandnight/Tutorial_SimpleTeacherAPI/blob/master/docs/source/index.rst) and change the content to the following. (Click the index.rst link for full content)
-
-   Documentation for the Code
-
-   ***
-
-       .. **toctree:: :maxdepth:** 2 **:caption:** Contents:
+       <pre>
+       <code>&nbsp;
+       Documentation for the Code  
+       \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*  
+       .. toctree::  
+       		:maxdepth: 2  
+        	:caption: Contents:  
        
-       # TeacherAPI main
+       TeacherAPI main  
+       ===================  
+       .. automodule:: app  
+       	:members:  
        
-       .. **automodule::** app **:members:
+       TeacherAPI controller  
+       ===================  
+       .. automodule:: teacherAPI.controller   
+       	:members:  
        
-       # **TeacherAPI controller
+       TeacherAPI models  
+       ===================  
+       .. automodule:: teacherAPI.models   
+       	:members:  
+         
+       TeacherAPI database  
+       ===================  
+       .. automodule:: teacherAPI.database   
+       	:members:  
        
-       .. **automodule::** teacherAPI.controller **:members:
-       
-       # **TeacherAPI models
-       
-       .. **automodule::** teacherAPI.models **:members:
-       
-       # **TeacherAPI database
-       
-       .. **automodule::** teacherAPI.database **:members:
-       
-       # **TeacherAPI populate
-       
-       .. **automodule::** teacherAPI.populate **:members:**
-2. Create the HTML and PDF documentation files.
+       TeacherAPI populate  
+       ===================  
+       .. automodule:: teacherAPI.populate   
+       	:members:
+        </code>
+        </pre>
+9. Create the HTML and PDF documentation files.
 
 * Still inside the docs directory run
 
-  make html
-  sphinx-build -b rinoh source _build/rinoh
+      make html
+      sphinx-build -b rinoh source _build/rinoh
 
 EDIT NOTE \[March 16, 2019\]: Building the pdf file would fail if your Python version is ≥3.7.0 ([Github issue reference](https://github.com/brechtm/rinohtype/issues/133))
 
