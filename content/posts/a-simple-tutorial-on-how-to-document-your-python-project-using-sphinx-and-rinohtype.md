@@ -1,7 +1,7 @@
 +++
 cover = ""
 date = "2018-06-17T16:00:00+00:00"
-linktitle = ""
+linktitle = "A Simple Tutorial on How to document your Python Project using Sphinx and Rinohtype"
 series = []
 tags = ["Python", "Sphinx"]
 title = "A Simple Tutorial on How to document your Python Project using Sphinx and Rinohtype"
@@ -11,8 +11,6 @@ weight = ""
 name = "Rich Yap"
 
 +++
-# A Simple Tutorial on How to document your Python Project using Sphinx and Rinohtype
-
 > Documenting code is one of the tasks I really don’t want to do, but I’ll do it for the grades anyway.
 
 This is probably what you’ll hear from me when I was a first year computer science student. I found documenting code boring and useless as I already know what my code does and the only person who’ll probably read it is the professor checking it.
@@ -84,7 +82,6 @@ The path should point to the root directory of the project and looking at the pr
 
    ***
 
-       
        .. **toctree:: :maxdepth:** 2 **:caption:** Contents:
        
        # TeacherAPI main
@@ -106,7 +103,6 @@ The path should point to the root directory of the project and looking at the pr
        # **TeacherAPI populate
        
        .. **automodule::** teacherAPI.populate **:members:**
-       
 2. Create the HTML and PDF documentation files.
 
 * Still inside the docs directory run
