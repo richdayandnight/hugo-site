@@ -23,7 +23,7 @@ Sphinx, written by Georg Brandl and licensed under the BSD license, was original
 
 Rinohtype, paired with Sphinx offers a modern alternative to [LaTeX](http://en.wikipedia.org/wiki/LaTeX) . It provides a Sphinx backend that allows generating professionally typeset PDF documents (Machiels).
 
-### In this tutorial, I’ll be using Sphinx and Rinohtype to produce an HTML and PDF documentation files respectively to a simple API project I wrote that manages a list of Teacher records ([Github Project Link](https://github.com/richdayandnight/Tutorial_SimpleTeacherAPI)) .
+### In this tutorial, I’ll be using Sphinx and Rinohtype to produce an HTML and PDF documentation files respectively to a simple API project I wrote that manages a list of Teacher records. ([Github Project Link](https://github.com/richdayandnight/Tutorial_SimpleTeacherAPI))
 
 1. Clone the project and delete/move the docs folder so you may follow me in creating the new documentation.
 2. Go to the root directory of the project.
