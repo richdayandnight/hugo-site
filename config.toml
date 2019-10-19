@@ -43,9 +43,9 @@ disableHugoGeneratorInject = false
 [blackfriday]
   hrefTargetBlank = true
 
-#[taxonomies]
-#  tag      = "tags"
-#  category = ""
+[taxonomies]
+  tag      = "tags"
+  category = ""
 
 [params]
   dateform        = "Jan 2, 2006"
@@ -54,7 +54,7 @@ disableHugoGeneratorInject = false
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "Nice theme for homepages and blogs"
+  description = "Thoughts, Stories, and Ideas"
   keywords = ""
   images = [""]
 
@@ -74,7 +74,7 @@ disableHugoGeneratorInject = false
   # Directory name of your blog content (default is `content/posts`)
   contentTypeName = "posts"
   # Default theme "light" or "dark"
-  defaultTheme = "dark"
+  defaultTheme = "light"
   themeColor = "#252627"
 
   [params.logo]
@@ -88,7 +88,7 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "medium"
-    url  = "https://medium.com/richdayandnight"
+    url  = "https://medium.com/@richdayandnight"
 
   #[[params.social]]
   #  name = "email"
