@@ -1,7 +1,7 @@
 +++
 cover = ""
 date = "2018-06-17T16:00:00+00:00"
-linktitle = "A Simple Tutorial on How to document your Python Project using Sphinx and Rinohtype"
+linktitle = ""
 series = []
 tags = ["Python", "Sphinx"]
 title = "A Simple Tutorial on How to document your Python Project using Sphinx and Rinohtype"
