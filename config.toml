@@ -78,7 +78,7 @@ disableHugoGeneratorInject = false
   themeColor = "#252627"
 
   [params.logo]
-    logoText     = "rich@day-and-night "
+    logoText     = "rich@day-and-night$"
     logoHomeLink = "/"
 
   # Social icons

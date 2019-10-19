@@ -6,11 +6,13 @@ linktitle: Creating a New Theme
 type:
 - post
 - posts
+tags: 
+- go
 title: Creating a New Theme
 weight: "10"
 series:
 - Hugo 101
-
+cover: doge.jpg
 ---
 ## Introduction
 
