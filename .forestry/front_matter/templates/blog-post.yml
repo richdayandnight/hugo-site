@@ -33,6 +33,18 @@ fields:
 - type: file
   name: cover
   label: cover
+- name: toc
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: toc
 pages:
 - content/posts/my-awesome-experience-of-attending-camps-with-strangers.md
 - content/posts/a-simple-tutorial-on-how-to-document-your-python-project-using-sphinx-and-rinohtype.md
