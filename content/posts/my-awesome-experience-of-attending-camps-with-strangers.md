@@ -5,6 +5,7 @@ linktitle = "My Awesome Experience of Attending Camps with Strangers"
 series = []
 tags = ["Life"]
 title = "My Awesome Experience of Attending Camps with Strangers"
+toc = "true"
 type = []
 weight = ""
 [author]
