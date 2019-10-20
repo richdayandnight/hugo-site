@@ -1,7 +1,6 @@
 +++
 cover = "/uploads/covers/power_your_future.jpeg"
 date = "2019-09-29T16:00:00+00:00"
-draft = true
 linktitle = "My Awesome Experience of Attending Camps with Strangers"
 series = []
 tags = ["Life"]
