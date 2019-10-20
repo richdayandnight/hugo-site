@@ -62,13 +62,13 @@ As a visually-oriented person, I sometimes imagine myself as a plant growing in 
 
 ### In meeting people you’ve had zero interaction before:
 
-#### Connect with a few people in your camp and make your experience 10 times more enjoyable_
+#### Connect with a few people in your camp and make your experience 10 times more enjoyable
 
 It is kind of obvious that in a camp of more than 40+ participants, you wouldn’t have the chance to talk to everyone on a deeper level than small talk, but you do have the opportunity to build meaningful connections with some. The rule I followed over the years of studying in my university is to always try to introduce myself to my seatmate during the first day of classes, strike up a conversation if I can, and maybe add them on social media. Most of the time my seatmate wouldn’t also know anybody in the room and if ever he/she knows someone, there’s a high chance that you can join their circle since it’s the first day of classes and what else is formed in the first day of classes? Groupings.
 
 This is a big lifesaver when you miss a class and want to ask for lecture notes and when you’re not sure with the specifications of your project and want to confirm the details with your classmate. At the same time, be a good seatmate too and provide service to your newfound friend whenever she needs something. For a bit, this may sound *scheme-y, *but in truth, it isn’t since you’re following a basic method of survival that goes back generations ago. Survival in companionship.
 
-    I hope people don't misunderstand above as an unethical life hack. It's unethical if you use this and you become a ***user ***who only contacts people when you need something from them and disappears when they need something from you.
+_I hope people don't misunderstand above as an unethical life hack. It's unethical if you use this and you become a **user** who only contacts people when you need something from them and disappears when they need something from you._
 
 The same technique applies to other social settings and this does the majority of the work for immediately breaking walls with less effort. Some points to consider when wanting to get closer to people you just met are mirroring their actions, being curious of them and letting them tell stories about themselves, and listening and reacting well to their anecdotes. In real life though, I usually don’t remember all these items as I just let the conversation flow into its natural course. Having said that, I think I was simply blessed to meet people who are also interested in getting to know me as I am with them.
 
@@ -90,47 +90,46 @@ In the Zühlke Innovation Academy I attended, I got to be a member of an amazing
 
 During the ideation process, we were tasked to write and exhaust our ideas on post-it notes. We were encouraged by our facilitator to write crazy unthinkable solutions as sometimes these ideas work out well in reality and might become a genius innovative solution. After squeezing our brain juices, we were asked to share our ideas with our groupmates in order to get a poll of which idea to pursue.
 
-\*“Why aren’t you guys challenging each other’s ideas?” (non-verbatim)*
+> _“Why aren’t you guys challenging each other’s ideas?” (non-verbatim)_
 
-A curious comment was given by our Mentor Nicole which hang in my mind for a while. Coming from Switzerland with a different cultural background, she provided an outside perspective on our interaction as a team and noticed that we were being passive in criticizing the ideas being shared as probably because we didn’t want to hurt each other’s feelings. Yes, our mind and body was present and participating with the activity, but we were conforming and getting along too well and that we needed intervention by our mentor to get the best out of our ideas. She was definitely accurate and on point with her observations as we might as well be a typical Filipino team illustrating the concept of _kapwa_ (shared identity), which is at the core of Filipino Social Psychology. In 1978, the father of modern Filipino psychology, Virgilio Enriquez defined *kapwa *as “shared identity,” “equality,” “being with others,” and “unity of the one-of-us-and-the-other.”
+A curious comment was given by our Mentor Nicole which hang in my mind for a while. Coming from Switzerland with a different cultural background, she provided an outside perspective on our interaction as a team and noticed that we were being passive in criticizing the ideas being shared as probably because we didn’t want to hurt each other’s feelings. Yes, our mind and body was present and participating with the activity, but we were conforming and getting along too well and that we needed intervention by our mentor to get the best out of our ideas. She was definitely accurate and on point with her observations as we might as well be a typical Filipino team illustrating the concept of _kapwa_ (shared identity), which is at the core of Filipino Social Psychology. In 1978, the father of modern Filipino psychology, Virgilio Enriquez defined _kapwa_ as “shared identity,” “equality,” “being with others,” and “unity of the one-of-us-and-the-other.”
 
-    2 categories of *Kapwa 
+    2 categories of Kapwa 
     
-     *\[direct dictionary translation: fellow human\]
+     [direct dictionary translation: fellow human]
     
-     \[Father of modern Filipino psychology definition, 
+     [Father of modern Filipino psychology definition, (Virgilio Enriquez): 
+     	shared identity, equality, being with others]
     
-      (Virgilio Enriquez): shared identity, equality, being with others\]
-    
-    *1. Ibang-tao* (outsider)
+    1. Ibang-tao (outsider)
     
         Levels of interaction 
     
-         a. *pakikitungo *(transaction/civility with)
+         a. pakikitungo(transaction/civility with)
     
-         b. *pakikisalamuha (*interaction with)
+         b. *pakikisalamuha (interaction with)
     
-         c. *pakikilahok (*joining/participating)
+         c. pakikilahok (joining/participating)
     
-         d. *pakikibagay (*in conformity with/inaccord with)
+         d. pakikibagay (in conformity with/inaccord with)
     
-         e. *pakikisama (*being along with)
+         e. pakikisama (being along with)
     
-    *2. Hindi-ibang-tao *(one-of-us) not outsider
+    2. Hindi-ibang-tao (one-of-us) not outsider
     
         Levels of interaction 
     
-         a. *pakikipaglagayang*-*loob 
+         a. pakikipaglagayang-loob 
     
-            (*being in-rapport/understanding/acceptance with)
+            (being in-rapport/understanding/acceptance with)
     
-         b. *pakikisangkot (*getting involved)
+         b. pakikisangkot (getting involved)
     
-         c. *pakikiisa (*being one with)
+         c. pakikiisa (being one with)
     
     Reference: Enriquez , V. G. (1978). Kapwa: A core concept in Filipino social psychology. Philippine Social Sciences and Humanities Review, 42, 100–108.
 
-Complementary to the *kapwa (shared identity) core value concept is pakikiramdam *or shared inner perception as pivotal interpersonal value. This shared inner perception is basically feeling for another or having heightened awareness of others, going as far as detecting non-verbal social cues. It was still in the early in the schedule of our camp week and so, we were utilizing this shared inner perception to be cautious with our words and observant with how our teammates react to them. This was the norm even in my past group experiences that without the outside observation from our mentor, I probably wouldn’t notice how emotionally sensitive we Filipinos are with each other. Nevertheless, it wouldn’t be truthful not to mention that there are still irregular cases of people in a group that have a straightforward/reckless attitude clearly not practicing _pakikiramdam_.
+Complementary to the _kapwa_ (shared identity) core value concept is pakikiramdam or shared inner perception as pivotal interpersonal value. This shared inner perception is basically feeling for another or having heightened awareness of others, going as far as detecting non-verbal social cues. It was still in the early in the schedule of our camp week and so, we were utilizing this shared inner perception to be cautious with our words and observant with how our teammates react to them. This was the norm even in my past group experiences that without the outside observation from our mentor, I probably wouldn’t notice how emotionally sensitive we Filipinos are with each other. Nevertheless, it wouldn’t be truthful not to mention that there are still irregular cases of people in a group that have a straightforward/reckless attitude clearly not practicing _pakikiramdam_.
 
 A more detailed definition is written below:
 
@@ -138,9 +137,9 @@ A more detailed definition is written below:
     
     Reference: Pe-Pua, R., & Protacio-Marcelino, E. A. (2000). Sikolohiyang Pilipino (Filipino psychology): A legacy of Virgilio G. Enriquez. *Asian Journal of Social Psychology*, *3*(1), 49–71. \[[https://doi.org/10.1111/1467-839x.00054](https://doi.org/10.1111/1467-839x.00054 "https://doi.org/10.1111/1467-839x.00054")\]([https://doi.org/10.1111/1467-839x.00054](https://doi.org/10.1111/1467-839x.00054 "https://doi.org/10.1111/1467-839x.00054"))
 
-From the numerous words/labels used to describe the levels of interactions in Filipino social psychology, you might surmise that “Hey, Filipinos must be extremely emotionally aware, right?” And that’s actually right as the Philippines was named among the world’s most emotional countries not only in the \[recent Gallup 2019 Global Emotions Report\]([https://news.abs-cbn.com/news/04/25/19/ph-among-most-emotional-countries-study](https://news.abs-cbn.com/news/04/25/19/ph-among-most-emotional-countries-study "https://news.abs-cbn.com/news/04/25/19/ph-among-most-emotional-countries-study")) but also in the past reports.
+From the numerous words/labels used to describe the levels of interactions in Filipino social psychology, you might surmise that “Hey, Filipinos must be extremely emotionally aware, right?” And that’s actually right as the Philippines was named among the world’s most emotional countries not only in the [recent Gallup 2019 Global Emotions Report](https://news.abs-cbn.com/news/04/25/19/ph-among-most-emotional-countries-study "https://news.abs-cbn.com/news/04/25/19/ph-among-most-emotional-countries-study") but also in the past reports.
 
-Going back to our team issue, our mentor told us that if we wanted to be the most innovative team we needed to pass this communication hurdle. This fired up our competitive spirit and right after, she advised us to do a bit of a \[Six Thinking Hats\]([https://www.mindtools.com/pages/article/newTED_07.htm](https://www.mindtools.com/pages/article/newTED_07.htm "https://www.mindtools.com/pages/article/newTED_07.htm")) role-play to get around the difficulty of challenging the idea of our group mates. In this role-play, each one of us gets to wear a “hat” or role that will tackle the idea from different perspectives. For example, if I was wearing a black hat, I would be the team pessimist that looks for the downsides and weak points of the idea. This worked well for us, as we were able to scrap the bad features of some ideas and combine the best ideas we had.
+Going back to our team issue, our mentor told us that if we wanted to be the most innovative team we needed to pass this communication hurdle. This fired up our competitive spirit and right after, she advised us to do a bit of a [Six Thinking Hats](https://www.mindtools.com/pages/article/newTED_07.htm "https://www.mindtools.com/pages/article/newTED_07.htm") role-play to get around the difficulty of challenging the idea of our group mates. In this role-play, each one of us gets to wear a “hat” or role that will tackle the idea from different perspectives. For example, if I was wearing a black hat, I would be the team pessimist that looks for the downsides and weak points of the idea. This worked well for us, as we were able to scrap the bad features of some ideas and combine the best ideas we had.
 
 To give you an idea, a typical design thinking cycle consists of empathize -> define -> ideate -> prototype -> test. At the last stage (test), we conducted user testing and discovered faults and oversights in our prototype project. Our group was fast to learn on our earlier mistake of not challenging the current state of our prototype project. We scrapped the parts that didn’t work and adjusted our prototype to meet the users wants. I wouldn’t say that we did those without any argument and bits of emotional wounds (jk), but most importantly we achieved our goal of winning the mini-project competition.
 
@@ -165,7 +164,7 @@ Overall, in both groups, we had great team dynamics. I just realized this recent
 
 ### In being mindful of your actions:
 
-#### \[Emotional awareness is the ability to recognize and make sense of not just your own emotions, but also those of others.\](https://www.harleytherapy.co.uk/counselling/emotional-awareness.htm_\](https://www.harleytherapy.co.uk/counselling/emotional-awareness.htm "https://www.harleytherapy.co.uk/counselling/emotional-awareness.htm")
+#### [Emotional awareness is the ability to recognize and make sense of not just your own emotions, but also those of others](https://www.harleytherapy.co.uk/counselling/emotional-awareness.htm "https://www.harleytherapy.co.uk/counselling/emotional-awareness.htm")
 
 Being able to recognize your own and others emotion is one thing, but reacting to them is another. Be mindful of your actions as it affects the whole group. Avoid negativity and practice conflict resolution.
 
@@ -226,19 +225,35 @@ Anyway, here is the list of my takeaways:
 
 On the day before the first camp, I ate spicy chicken for dinner. Little did I know that I’d wake up early in the morning having an upset stomach. Two months after, I’m back to Korea for the second camp. The spicy food incident was more memorable this time as it was one of the most intense upset stomachs that I had. _Yep, I definitely list down every upset stomach I had and rank them according to order._
 
-    It was the evening of our first official camp day. I was freezing because of the cold weather but the warm presence of my co-participants kept me alive. For more than 5 minutes we were walking and for 10 more minutes, we were walking, and for 5 more minutes still walking… I thought, so this is why Koreans have low obesity rates. I am used to long walks so I enjoyed it a lot. Our mentor has planned to bring us from the camp venue to a chicken house for dinner. We walked on the cold bricks of the huge KAIST university, to cold concrete of dark alleys dimly lighted by street lamps, and finally to concrete pavers of a brightly lit bustling commercial area consisting of interconnected alleys that seemed like a labyrinth for me.
-    
-    Oh, boy, was I fascinated. “There isn’t a place like this in the Philippines!” The streets were brimming with people, mostly university students wearing black puffer jackets. People were walking on and off the unapparent road, briskly moving to the sides whenever cars pass by. Lights from the different establishments like restaurants, pubs, milk tea shops, karaoke rooms, PC rooms, arcade, barbershops, stationery stores, convenience stores, and also street stalls fill the place and set upon every surface of the alley. You probably wouldn’t see a single star from this place.
-    
-    With eyes of fascination, we have unknowingly arrived at our place of nourishment, the chicken house. In Korea, they call restaurants that serve chicken 치킨집 with a literal translation of _chicken house_. Our mentor ordered and our food arrived on the table soon enough. The food was visually satiating. Young kids these days would say it’s Instagrammable. The food was a mixed spicy chicken, tteokbokki, fish cakes, and ramen. It looks delicious and tastes delicious, but it was spicy as hell too. For some reason, I have the habit of continuously grabbing food when I’m using chopsticks. Even if it’s spicy, I ate a lot while gulping cups of water every bite. By the end, I was full, happy, fulfilled, and one kilo heavier.
-    
-    Together with my fellow countrymen co-participants, we walked around more to digest the starchy foods we just ingested. A stationery store called Artbox sold a lot of cool items so we checked it out. I bought a hot pack which is like a nifty pocket heater. We also entered a mini grocery store to find for snacks to buy and bring home. Interestingly they were selling Filipino snacks too. Anyway, my roommate and I turned our attention to the ice cream freezer and got our own swirly ice creams on a cup for a round of dessert. Everything was fine except the night got deeper, the temperature dropped, and our bodies were tired calling for a retreat to our dormitories. With masks and scarfs wrapping our faces, hands inside our pockets, arms close to the body, and fast large steps, these men and women born and raised from a tropical country walked again.
-    
-    My roommate and I arrived at the female dormitories named Sarang Hall (Love Hall) and the sudden shift of temperature brought by the heated room floor made me dizzy briefly. As I looked into the mirror I realized my ears and cheeks turned red and my face was very dry. I immediately took off my extra layers of clothing and went to the common shower room to freshen up before sleeping. There was some type of uneasiness in my stomach, but I brushed it off as nothing serious because it was that time of the month. I went back to our room and began organizing my things. As I was folding my clothes, my stomach began aching. It wasn’t unbearable, but it was terribly uncomfortable. I thought a few trips to the bathroom would solve it. Even my roommate started to worry about my situation. I kind of groaned, griped, but laugh it off in the end since I just wanted to be done with the aching by myself. My condition worsened and my menstrual cramps were getting the best of me. My mind wandered off thinking of reasons why I’m feeling this way at the worst timing when I’m seas beyond the comforts of my home. I felt weak, but I knew I had to do something to relieve my pain. I drank lots of water and prayed. I glanced at the hot pack I bought earlier at a stationary store and suddenly got an idea thought to use those as cramps reliever. I don’t have much experience in severe cramps like this one so it was my first time to utilize such a common home remedy. Immediately afterward, I lied on the bed and put the hot pack on top of my lower abdomen. With my eyes closed and brows furrowed, I wished the pain gone lulling myself to sleep.
-    
-    The next morning, after a trip to the bathroom, most of the aching was gone. I slowly gained momentum by immediately getting ready and dressing up for day 2. Looking back, I realized that the combination of being tired, eating too much spicy food, and triggering my lactose intolerance symptoms through eating ice cream resulted in that nightmare. Nevertheless, it’s day 2 and it’s time to get back on track with the camp.
+***
+
+<p class="quote">
+
+It was the evening of our first official camp day. I was freezing because of the cold weather but the warm presence of my co-participants kept me alive. For more than 5 minutes we were walking and for 10 more minutes, we were walking, and for 5 more minutes still walking… I thought, so this is why Koreans have low obesity rates. I am used to long walks so I enjoyed it a lot. Our mentor has planned to bring us from the camp venue to a chicken house for dinner. We walked on the cold bricks of the huge KAIST university, to cold concrete of dark alleys dimly lighted by street lamps, and finally to concrete pavers of a brightly lit bustling commercial area consisting of interconnected alleys that seemed like a labyrinth for me.
+</p>
+
+<p class="quote">
+Oh, boy, was I fascinated. “There isn’t a place like this in the Philippines!” The streets were brimming with people, mostly university students wearing black puffer jackets. People were walking on and off the unapparent road, briskly moving to the sides whenever cars pass by. Lights from the different establishments like restaurants, pubs, milk tea shops, karaoke rooms, PC rooms, arcade, barbershops, stationery stores, convenience stores, and also street stalls fill the place and set upon every surface of the alley. You probably wouldn’t see a single star from this place.
+</p>
+
+<p class="quote">  
+With eyes of fascination, we have unknowingly arrived at our place of nourishment, the chicken house. In Korea, they call restaurants that serve chicken 치킨집 with a literal translation of _chicken house_. Our mentor ordered and our food arrived on the table soon enough. The food was visually satiating. Young kids these days would say it’s Instagrammable. The food was a mixed spicy chicken, tteokbokki, fish cakes, and ramen. It looks delicious and tastes delicious, but it was spicy as hell too. For some reason, I have the habit of continuously grabbing food when I’m using chopsticks. Even if it’s spicy, I ate a lot while gulping cups of water every bite. By the end, I was full, happy, fulfilled, and one kilo heavier.
+</p>
+
+<p class="quote">  
+Together with my fellow countrymen co-participants, we walked around more to digest the starchy foods we just ingested. A stationery store called Artbox sold a lot of cool items so we checked it out. I bought a hot pack which is like a nifty pocket heater. We also entered a mini grocery store to find for snacks to buy and bring home. Interestingly they were selling Filipino snacks too. Anyway, my roommate and I turned our attention to the ice cream freezer and got our own swirly ice creams on a cup for a round of dessert. Everything was fine except the night got deeper, the temperature dropped, and our bodies were tired calling for a retreat to our dormitories. With masks and scarfs wrapping our faces, hands inside our pockets, arms close to the body, and fast large steps, these men and women born and raised from a tropical country walked again.
+</p>
+
+<p class="quote">
+My roommate and I arrived at the female dormitories named Sarang Hall (Love Hall) and the sudden shift of temperature brought by the heated room floor made me dizzy briefly. As I looked into the mirror I realized my ears and cheeks turned red and my face was very dry. I immediately took off my extra layers of clothing and went to the common shower room to freshen up before sleeping. There was some type of uneasiness in my stomach, but I brushed it off as nothing serious because it was that time of the month. I went back to our room and began organizing my things. As I was folding my clothes, my stomach began aching. It wasn’t unbearable, but it was terribly uncomfortable. I thought a few trips to the bathroom would solve it. Even my roommate started to worry about my situation. I kind of groaned, griped, but laugh it off in the end since I just wanted to be done with the aching by myself. My condition worsened and my menstrual cramps were getting the best of me. My mind wandered off thinking of reasons why I’m feeling this way at the worst timing when I’m seas beyond the comforts of my home. I felt weak, but I knew I had to do something to relieve my pain. I drank lots of water and prayed. I glanced at the hot pack I bought earlier at a stationary store and suddenly got an idea thought to use those as cramps reliever. I don’t have much experience in severe cramps like this one so it was my first time to utilize such a common home remedy. Immediately afterward, I lied on the bed and put the hot pack on top of my lower abdomen. With my eyes closed and brows furrowed, I wished the pain gone lulling myself to sleep.
+</p>
+
+<p class="quote">
+The next morning, after a trip to the bathroom, most of the aching was gone. I slowly gained momentum by immediately getting ready and dressing up for day 2. Looking back, I realized that the combination of being tired, eating too much spicy food, and triggering my lactose intolerance symptoms through eating ice cream resulted in that nightmare. Nevertheless, it’s day 2 and it’s time to get back on track with the camp. </p>
 
 ![](https://miro.medium.com/max/3456/1*6eKhbbo-JoM8wMjqgsrqag.jpeg)
+
+***
 
 From this time forward, I learned my lesson of being wary of eating spicy food and dairy. Drinking lots of water usually solves my dairy issue, but I have still yet to find a solution for making my stomach feel better after eating a very spicy meal. When I eat spicy ramen at home, I drink Yakult (probiotic drink), but I don’t think it’s doing much to help me digest the food. I also monitor my bad habits of overeating and drinking by limiting the amount of rice I eat every meal and limiting myself of the number of milk teas and coffee I drink every month respectively.
 
@@ -250,31 +265,33 @@ From this time forward, I learned my lesson of being wary of eating spicy food a
 
   Gradually, I became conscious of my drinking habits not just by myself, but also with the unintentional help of people around me. I noticed how people around me care about their drinking habits and this has inspired me to do the same. Instead of drinking soda for drinks, I only drink juice or water now (I still drink the soda if I got a meal with soda for free though since I think it’s a waste if nobody else drinks it). I substituted coffee with tea as tea doesn’t make me palpitate and actually provides health benefits. Recently, I started limiting myself with 2 milk tea or frappe or any sugar-heavy drinks a month. And finally, I get to reach the recommended amount of water to drink every day through drinking 2 glasses of water each as soon as I wake up in the morning, right before I sleep, during meals, and in between meals.
 
-  Drinking lots of water that is well-provided in the camps I attended also further validated my belief that hydration is essential in making our mind and body operate. After all, the body is about more ore less 60% water. I thought it was foolish for me not to monitor my drinking of water in the past.
-
+  Drinking lots of water that is well-provided in the camps I attended also further validated my belief that hydration is essential in making our mind and body operate. After all, the body is about more ore less 60% water. I thought it was foolish for me not to monitor my drinking of water in the past.  
 
 * **Maintain physical fitness to prevent illnesses**
 
   Those who are close to me know that I’m prone to having a runny nose, especially during the rainy season. In recent years, I have a suspicion that I might’ve developed allergic rhinitis as a response to the increase of dust mites in our dilapidating house. Due to this condition, when I come in contact with an allergen I uncontrollably sneeze and cough which is uncomfortable not only for me but also for people around me. This is one of the reasons why I always carry a handkerchief whenever I go out.
 
-  My condition has gotten better now since we’re having our house reconstructed but during the camps where I was exposed to shifting temperatures, especially when I went to Korea on Autumn/Winter, I was struggling with my runny nose all the time.
+  My condition has gotten better now since we’re having our house reconstructed but during the camps where I was exposed to shifting temperatures, especially when I went to Korea on Autumn/Winter, I was struggling with my runny nose all the time.  
 
-  Now to prevent any type of illness in the future, I came up with concrete steps to keep my body healthy.
-  * **Drink vitamins**
+  Now, to prevent any type of illness in the future, I came up with concrete steps to keep my body healthy.  
+  
+  1. **Drink vitamins**  
 
-    Drinking vitamins is something I neglected in the past but through research, I got to understand its importance as nutritional supplements. Some doctors suggest that if one can eat a complete healthy balanced diet every day, vitamins may not be necessary. Since I don’t really get my dose of vegetables every single day, for example, I think multivitamins fills that nutrient gap for me.
-  * **Pick up a Sport/Hobby**
+     Drinking vitamins is something I neglected in the past but through research, I got to understand its importance as nutritional supplements. Some doctors suggest that if one can eat a complete healthy balanced diet every day, vitamins may not be necessary. Since I don’t really get my dose of vegetables every single day, for example, I think multivitamins fills that nutrient gap for me.  
+     
+  2. **Pick up a Sport/Hobby**
 
-    I exercise only when the situation requires me to. In elementary and high school, Physical Education classes were exercise for me. In college, commuting was the exercise for me. One to three hours of public transportation every day was the norm so I treated all the walking and chasing of jeepneys and UV Express as exercise. My brother told me that this ain’t exercise and I didn’t want to admit that he’s right so I strongly defended that commuting is enough for me to keep a healthy body when it’s not.
+     I exercise only when the situation requires me to. In elementary and high school, Physical Education classes were exercise for me. In college, commuting was the exercise for me. One to three hours of public transportation every day was the norm so I treated all the walking and chasing of jeepneys and UV Express as exercise. My brother told me that this ain’t exercise and I didn’t want to admit that he’s right so I strongly defended that commuting is enough for me to keep a healthy body when it’s not.  
 
-    On my birthday last February, I asked my mother that if she bought me shoes, I’d use it to run. My mother did buy me the shoes but I haven’t used it to run until two months ago, I remembered my brother suggesting to me to use an application called C25k (Couch to 5k) if I really wanted to pick up running as a sport. Basically, this application is perfect for couch potatoes like me who don’t do much exercise beforehand. Since that day I ran 3k almost every day. I’m about three-fourths done in the running program and went through a lot of changes. From not being able to run for merely 30 seconds straight, I’m now able to run 24 minutes straight without stopping. I’m feeling a lot better and healthier than before and I also don’t have frequent allergic reactions. I have a good feeling that I’ll be able to have a good relationship with this sport onwards. What’s amazing with this application also is that it has an existing and active Reddit community online which inspires me more to continue running.
-  * **Monitor Diet**
+     On my birthday last February, I asked my mother that if she bought me shoes, I’d use it to run. My mother did buy me the shoes but I haven’t used it to run until two months ago, I remembered my brother suggesting to me to use an application called C25k (Couch to 5k) if I really wanted to pick up running as a sport. Basically, this application is perfect for couch potatoes like me who don’t do much exercise beforehand. Since that day I ran 3k almost every day. I’m about three-fourths done in the running program and went through a lot of changes. From not being able to run for merely 30 seconds straight, I’m now able to run 24 minutes straight without stopping. I’m feeling a lot better and healthier than before and I also don’t have frequent allergic reactions. I have a good feeling that I’ll be able to have a good relationship with this sport onwards. What’s amazing with this application also is that it has an existing and active Reddit community online which inspires me more to continue running.  
+     
+  3. **Monitor Diet**
 
-    Cooking is something that I occasionally enjoy in the past. Currently, it has grown more into me especially now that I’m in the process of changing my lifestyle into a healthy one. I've always loved eating food and I think the reason why I love it so much is because my mom is a good cook. These days I’ve been cooking various Filipino delicacies making me more knowledgeable with the ingredients used and their health benefits. I was refreshed with basic concepts on nutrition like macronutrients and micronutrients. It’s funny to think that I care about these concepts now, 8+ years after these were introduced to me in elementary. Ah, I’m getting old. Anyway, because of cooking, I can say I’m a little bit more aware of what I put inside my body. I can also now do a rough estimate of the calories that I eat every day.
+     Cooking is something that I occasionally enjoy in the past. Currently, it has grown more into me especially now that I’m in the process of changing my lifestyle into a healthy one. I've always loved eating food and I think the reason why I love it so much is because my mom is a good cook. These days I’ve been cooking various Filipino delicacies making me more knowledgeable with the ingredients used and their health benefits. I was refreshed with basic concepts on nutrition like macronutrients and micronutrients. It’s funny to think that I care about these concepts now, 8+ years after these were introduced to me in elementary. Ah, I’m getting old. Anyway, because of cooking, I can say I’m a little bit more aware of what I put inside my body. I can also now do a rough estimate of the calories that I eat every day.
 
-    Currently, I’m cutting down on rice through eating at most 1 cup every meal and am limiting myself of the number of calories I intake every day (just a rough estimate and not to the decimal point). These days I’m trying to lose weight so I _tried_ a trending diet method called 16/8 intermittent fasting which involves eating only during an 8-hour window and fasting for the remaining 16 hours, but … I’ve been failing (haha). I get pretty hungry at night and even though I try to drink water to satiate my hunger, I tend to pace back and forth in the kitchen until I get a bite of some food.
+     Currently, I’m cutting down on rice through eating at most 1 cup every meal and am limiting myself of the number of calories I intake every day (just a rough estimate and not to the decimal point). These days I’m trying to lose weight so I _tried_ a trending diet method called 16/8 intermittent fasting which involves eating only during an 8-hour window and fasting for the remaining 16 hours, but … I’ve been failing (haha). I get pretty hungry at night and even though I try to drink water to satiate my hunger, I tend to pace back and forth in the kitchen until I get a bite of some food.
 
-    I don’t know if I’ll get to succeed in that diet in the future, but it did wonders to my very close friend and she seems quite healthy too. For now, I’ll just trust that my calorie limiting and running activities will continuously help me in losing weight.
+     I don’t know if I’ll get to succeed in that diet in the future, but it did wonders to my very close friend and she seems quite healthy too. For now, I’ll just trust that my calorie limiting and running activities will continuously help me in losing weight.
 
 ### Conclusion:
 
@@ -286,36 +303,34 @@ So much has changed since the launch of the World Wide Web and today, with just 
 
 Remarkably, someone in the past has predicted the existence of the internet.
 
-> In 1962, the author and media theorist, \[predicted\]([http://www.telegraph.co.uk/technology/0/marshall-mcluhan-did-predict-internet/](http://www.telegraph.co.uk/technology/0/marshall-mcluhan-did-predict-internet/ "http://www.telegraph.co.uk/technology/0/marshall-mcluhan-did-predict-internet/")) we’d have an internet.
-
+> In 1962, the author and media theorist, [predicted](http://www.telegraph.co.uk/technology/0/marshall-mcluhan-did-predict-internet) we’d have an internet.
+>
 > That was the year McLuhan, a professor of English born in Edmonton, Canada on this day in 1911, wrote a book called _The Gutenberg Galaxy_. In it, he observed that human history could be partitioned into four distinct chapters: The acoustic age, the literary age, the print age, and the then-emerging electronic age. McLuhan believed this new frontier would be home to what he dubbed a “**global village**” — a space where technology spread information to anyone and everyone.
+>
+> Source: [http://mentalfloss.com/article/502962/marshall-mcluhan-man-who-predicted-internet-1962](http://mentalfloss.com/article/502962/marshall-mcluhan-man-who-predicted-internet-1962 "http://mentalfloss.com/article/502962/marshall-mcluhan-man-who-predicted-internet-1962")
 
-> Source: \[[http://mentalfloss.com/article/502962/marshall-mcluhan-man-who-predicted-internet-1962](http://mentalfloss.com/article/502962/marshall-mcluhan-man-who-predicted-internet-1962 "http://mentalfloss.com/article/502962/marshall-mcluhan-man-who-predicted-internet-1962")\]([http://mentalfloss.com/article/502962/marshall-mcluhan-man-who-predicted-internet-1962](http://mentalfloss.com/article/502962/marshall-mcluhan-man-who-predicted-internet-1962 "http://mentalfloss.com/article/502962/marshall-mcluhan-man-who-predicted-internet-1962"))
-
-> # I am glad to born in this age of the internet.
-
-> # T̶h̶e̶ ̶I̶n̶t̶e̶r̶n̶e̶t̶ ̶g̶a̶v̶e̶ ̶m̶e̶ ̶o̶p̶p̶o̶r̶t̶u̶n̶i̶t̶i̶e̶s̶ ̶a̶n̶d̶ ̶t̶a̶u̶g̶h̶t̶ ̶m̶e̶ ̶a̶ ̶l̶o̶t̶ ̶o̶f̶ ̶t̶h̶i̶n̶g̶s̶.̶
-
-> # The people on the internet gave me opportunities and taught me a lot of things.
+<p align="center">I am glad that I was born in this age of the internet.</p>  
+<p align="center">T̶h̶e̶ ̶I̶n̶t̶e̶r̶n̶e̶t̶ ̶g̶a̶v̶e̶ ̶m̶e̶ ̶o̶p̶p̶o̶r̶t̶u̶n̶i̶t̶i̶e̶s̶ ̶a̶n̶d̶ ̶t̶a̶u̶g̶h̶t̶ ̶m̶e̶ ̶a̶ ̶l̶o̶t̶ ̶o̶f̶ ̶t̶h̶i̶n̶g̶s̶.̶</p>  
+<p align="center">The people on the internet gave me opportunities and taught me a lot of things</p>
 
 It’s not the internet that gave me opportunities and taught me a lot of things. It is the people who created the networks, set up the servers, developed web pages, wrote content that provided us with knowledge. I got reminded to practice gratefulness and not take things for granted just because they’re on the internet.
 
 The global village consists of people just like you and me. It’s also a place where you can meet strangers in the right communities. With the right online community with members continuously inspiring and supporting each other, one can also grow and have similar learning experiences like me. Considering as to how the VR community grows steadily, I believe it might be used one day to conduct workshops or lectures online. Anybody can learn anything now with the free resources we have online. Sky’s the limit.
 
-\## Awesome pictures of the camps & details:
+### Awesome pictures of the camps & details:
 
-!\[Zühlke Innovation Academy\]([https://cdn-images-1.medium.com/max/2400/0](https://cdn-images-1.medium.com/max/2400/0 "https://cdn-images-1.medium.com/max/2400/0")*xK0_opRQT9M07DSM.jpg)_Zühlke Innovation Academy_
+{{< figure src="https://miro.medium.com/max/1200/0*xK0_opRQT9M07DSM.jpg" alt="Zühlke Innovation Academy" position="center" caption="Zühlke Innovation Academy" captionPosition="center" >}}
 
 > **Zühlke Innovation Academy** is a week-long Design Thinking Workshop held at Cavite, Philippines. For the most duration of the academy, we learned and experienced the full-cycle of the design thinking process. Sub-topics on global citizenship, global trends, and cross-cultural skills were discussed too.
 
-!\[\[2018 KAIST EE Camp\]([http://ee.kaist.ac.kr](http://ee.kaist.ac.kr "http://ee.kaist.ac.kr"))\]([https://cdn-images-1.medium.com/max/3840/1](https://cdn-images-1.medium.com/max/3840/1 "https://cdn-images-1.medium.com/max/3840/1")_0H--fU-De-Al3fOnCsWdbA.png)_\[2018 KAIST EE Camp\]([http://ee.kaist.ac.kr](http://ee.kaist.ac.kr "http://ee.kaist.ac.kr"))*
+{{< figure src="https://miro.medium.com/max/1920/1*0H--fU-De-Al3fOnCsWdbA.png" alt="2018 KAIST EE Camp" position="center" caption="2018 KAIST EE Camp" captionPosition="center" >}}
 
-> **2018 KAIST EE Camp** is a 2-day visit camp to KAIST’s campus at Daejeon, Korea held last November and organized by the KAIST School of Electrical Engineering. Participants were introduced to graduate program opportunities through campus and laboratory tours, research talks, and meeting with School of Electrical Engineering professors and students.
+> [**2018 KAIST EE Camp**](http://ee.kaist.ac.kr/) is a 2-day visit camp to KAIST’s campus at Daejeon, Korea held last November and organized by the KAIST School of Electrical Engineering. Participants were introduced to graduate program opportunities through campus and laboratory tours, research talks, and meeting with School of Electrical Engineering professors and students.
 
-!\[\[2019 KAIST SoC Camp\]([http://soccamp.kaist.ac.kr/](http://soccamp.kaist.ac.kr/ "http://soccamp.kaist.ac.kr/")) © Georgia Rose\]([https://cdn-images-1.medium.com/max/4000/0](https://cdn-images-1.medium.com/max/4000/0 "https://cdn-images-1.medium.com/max/4000/0")_st19soeTjmeiEDZC)_\[2019 KAIST SoC Camp\]([http://soccamp.kaist.ac.kr/](http://soccamp.kaist.ac.kr/ "http://soccamp.kaist.ac.kr/")) © Georgia Rose*
+{{< figure src="https://miro.medium.com/max/2000/0*st19soeTjmeiEDZC" alt="2019 KAIST SoC Camp" position="center" caption="2019 KAIST SoC Camp © Georgia Rose" captionPosition="center" >}}
 
-> **2019 KAIST SoC Camp** is a 4-day visit camp organized by KAIST School of Computing held this January where participants get to learn graduate program opportunities and experience KAIST through staying at an on-campus dormitory while attending to research talks and team discussions at designated building on-campus.
+> [**2019 KAIST SoC Camp**](http://soccamp.kaist.ac.kr/) is a 4-day visit camp organized by KAIST School of Computing held this January where participants get to learn graduate program opportunities and experience KAIST through staying at an on-campus dormitory while attending to research talks and team discussions at designated building on-campus.
 
-!\[Accenture Student Leadership Conference 2019 © Alan Mercado\]([https://cdn-images-1.medium.com/max/4000/0](https://cdn-images-1.medium.com/max/4000/0 "https://cdn-images-1.medium.com/max/4000/0")*9X5son8iZi6DZBM1)_Accenture Student Leadership Conference 2019 © Alan Mercado_
+{{< figure src="https://miro.medium.com/max/2000/0*9X5son8iZi6DZBM1" alt="Accenture Student Leadership Conference 2019 © Alan Mercado" position="center" caption="Accenture Student Leadership Conference 2019 © Alan Mercado" captionPosition="center" >}}
 
-> Accenture Student Leadership 2019 (SLC2019) is an immersive two-day conference for graduating students in the Philippines held at Novotel Manila Araneta Center that aims help young student leaders discover their power to lead.
+> **Accenture Student Leadership 2019 (SLC2019)** is an immersive two-day conference for graduating students in the Philippines held at Novotel Manila Araneta Center that aims help young student leaders discover their power to lead.
