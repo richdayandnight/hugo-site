@@ -38,7 +38,9 @@ fields:
   default: []
   config:
     required: false
-    options: []
+    options:
+    - 'true'
+    - 'false'
     source:
       type: simple
       section: 
