@@ -1,19 +1,20 @@
 ---
 author:
-  name: "Hugo Authors"
+  name: Hugo Authors
 date: 2014-03-10
 linktitle: Migrating from Jekyll
 title: Migrate to Hugo from Jekyll
 type:
 - post
 - posts
-weight: 10
+weight: "10"
 series:
 - Hugo 101
 aliases:
-- /blog/migrate-from-jekyll/
----
+- "/blog/migrate-from-jekyll/"
+draft: true
 
+---
 ## Move static content to `static`
 Jekyll has a rule that any directory not starting with `_` will be copied as-is to the `_site` output. Hugo keeps all static content under `static`. You should therefore move it all there.
 With Jekyll, something that looked like
