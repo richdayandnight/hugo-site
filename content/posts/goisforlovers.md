@@ -1,24 +1,16 @@
 +++
-title = "(Hu)go Template Primer"
+categories = ["Development", "golang"]
+date = 2014-04-02T00:00:00Z
 description = ""
-type = ["posts","post"]
-tags = [
-    "go",
-    "golang",
-    "templates",
-    "themes",
-    "development",
-]
-date = "2014-04-02"
-categories = [
-    "Development",
-    "golang",
-]
+draft = true
 series = ["Hugo 101"]
-[ author ]
-  name = "Hugo Authors"
-+++
+tags = ["go", "golang", "templates", "themes", "development"]
+title = "(Hu)go Template Primer"
+type = ["posts", "post"]
+[author]
+name = "Hugo Authors"
 
++++
 Hugo uses the excellent [Go][] [html/template][gohtmltemplate] library for
 its template engine. It is an extremely lightweight engine that provides a very
 small amount of logic. In our experience that it is just the right amount of
