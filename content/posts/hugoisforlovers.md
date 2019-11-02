@@ -2,6 +2,7 @@
 categories = ["Development", "golang"]
 date = 2014-04-02T00:00:00Z
 description = ""
+draft = true
 series = ["Hugo 101"]
 tags = ["go", "golang", "hugo", "development"]
 title = "Getting Started with Hugo"
