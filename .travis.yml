@@ -13,7 +13,7 @@ deploy:
   provider: pages
   skip_cleanup: true
   github_token: $GITHUB_TOKEN
-  email: richsmyap@gmail.com
+  email: darcey.eef22719@tryninja.io
   name: "richdayandnight"
   on:
     branch: master
