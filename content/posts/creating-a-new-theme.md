@@ -13,6 +13,7 @@ weight: "10"
 series:
 - Hugo 101
 cover: "/uploads/covers/doge.jpg"
+draft: true
 
 ---
 ## Introduction

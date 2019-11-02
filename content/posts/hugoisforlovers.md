@@ -1,23 +1,15 @@
 +++
-title = "Getting Started with Hugo"
+categories = ["Development", "golang"]
+date = 2014-04-02T00:00:00Z
 description = ""
-type = ["posts","post"]
-tags = [
-    "go",
-    "golang",
-    "hugo",
-    "development",
-]
-date = "2014-04-02"
-categories = [
-    "Development",
-    "golang",
-]
 series = ["Hugo 101"]
-[ author ]
-  name = "Hugo Authors"
-+++
+tags = ["go", "golang", "hugo", "development"]
+title = "Getting Started with Hugo"
+type = ["posts", "post"]
+[author]
+name = "Hugo Authors"
 
++++
 ## Step 1. Install Hugo
 
 Go to [Hugo releases](https://github.com/spf13/hugo/releases) and download the
