@@ -48,5 +48,6 @@ fields:
       path: 
   label: toc
 pages:
+- content/posts/ML Talk.md
 - content/posts/my-awesome-experience-of-attending-camps-with-strangers.md
 - content/posts/a-simple-tutorial-on-how-to-document-your-python-project-using-sphinx-and-rinohtype.md
